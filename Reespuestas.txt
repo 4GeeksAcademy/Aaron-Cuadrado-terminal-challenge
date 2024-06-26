@@ -1,0 +1,16 @@
+cd thecmdchallenge 
+pwd
+ls -a
+ls -laR | less
+clear
+cat trophy.txt 
+ls *.js
+mkdir not-that-funny
+cp the-mostboring-text.txt lol.txt 
+mv kids.jpg ./images/hello/
+rm -r small-name   
+cat the-ultimate-joke.txt
+rm -r boringfolder 
+vi dragon-ball-jokes.md 
+nano dragon-ball-jokes.md
+hola
